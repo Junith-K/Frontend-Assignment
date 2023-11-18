@@ -1,6 +1,6 @@
 # UI-Schema Frontend Assignment
 
-[Vercel Deployed]()
+[Vercel Deployed](https://frontend-assignment-junith.vercel.app/)
 
 ### Running in Localhost:      
 
